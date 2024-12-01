@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
 
-    background-image: url(../img/books/clubes-de-livro.jpg);
+    background-image: url(../img/books/livraria_fundo.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -111,3 +111,33 @@ main{
     transform: scale(110%);
     transition: 0.6s;
 }
+
+.navbar {
+    background-color: #333;
+    padding: 1em;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar li {
+    display: inline;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar a:hover {
+    color: #ff9800;
+  }
+  

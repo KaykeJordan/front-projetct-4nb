@@ -12,7 +12,7 @@ document.getElementById('loginForm').addEventListener('submit', async (e) => {
   
       if (response.ok) {
         alert('Bem vindo!');
-        window.location.href = 'books.html';
+        window.location.href = 'bookstore.html';
       } else {
         throw new Error();
       }
