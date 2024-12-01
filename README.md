@@ -14,7 +14,7 @@ O frontend interage com o backend da aplicação, sendo necessário que o servid
 ## Pré-requisitos
 - Navegador atualizado para visualizar as páginas HTML.
 - Servidor backend configurado e rodando.
-  - Repositório do backend: [link](https://github.com/KaykeJordan/kaykejordan-4nb).
+  - Repositório do backend: [(https://github.com/KaykeJordan/kaykejordan-4nb](https://github.com/KaykeJordan/kaykejordan-4nb).
 - Arquivo `request.http` para realizar requisições HTTP diretamente ao backend.
 
 ## Estrutura do Projeto
